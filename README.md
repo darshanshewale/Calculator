@@ -1,2 +1,2 @@
 # Calculator
-First Android Appalication
+First Android Application
