@@ -30,11 +30,3 @@ The **Calculator App** is a simple Android application that allows users to perf
 3. Select the desired operation (addition, subtraction, multiplication, or division).
 4. View the result instantly.
 
-
-(6) Tutorial: Create your first Android application | IntelliJ IDEA. https://bing.com/search?q=first+app+Android+Java.
-(7) Build your first app | Get started | Android Developers. https://developer.android.com/get-started/overview.
-(8) Tutorial: Create your first Android application | IntelliJ IDEA. https://www.jetbrains.com/help/idea/create-your-first-android-application.html.
-(9) undefined. https://media.geeksforgeeks.org/wp-content/uploads/20210629133649/build-a-simple-Calculator-app-using-Android-Studio.mp4?_=1.
-(10) undefined. http://schemas.android.com/apk/res/android.
-(11) undefined. http://schemas.android.com/apk/res-auto.
-(12) undefined. http://schemas.android.com/tools.
